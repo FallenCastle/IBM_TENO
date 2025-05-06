@@ -33,7 +33,6 @@ module setup
     double precision,allocatable::ub_BI(:,:),ub_IP(:,:)
     double precision:: delta_dis,eta_min
 
-    !Wedge
     double precision:: vertex(2,3) !coordinates of vertexes
 
 end module
@@ -983,7 +982,7 @@ module kernel_function
 endmodule kernel_function
 
 !!!Host Function
-program Wedge
+program Schardin
     use setup
     use setup_device
     use kernel_function
@@ -1165,7 +1164,7 @@ program Wedge
     call cpu_time(timeEnd)
     print *, 'Total time = ',timeEnd-timeStart,'s'
 
-end program Wedge
+end program Schardin
 
 subroutine gpu_allocate
     use setup
