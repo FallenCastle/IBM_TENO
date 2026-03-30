@@ -1,5 +1,11 @@
 # Reference
-If you use IBM_TENO for academic applications, please cite our paper. (https://doi.org/10.1016/j.ast.2025.111073)
+If you use IBM_TENO for academic applications, please cite our paper:
+
+**Zeyu Chen and Kuangxu Chen**,  
+*"High-order positivity-preserving and dissipation-adaptive computational framework with sharp-interface immersed boundaries for high-Mach-number shock-obstacle interactions"*,  
+*Aerospace Science and Technology*,  
+Volume 168, Part E, January 2026, 111073  
+https://doi.org/10.1016/j.ast.2025.111073
 
 # IBM_TENO
 
