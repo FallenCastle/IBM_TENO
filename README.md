@@ -1,3 +1,6 @@
+# Reference
+If you use IBM_TENO for academic applications, please cite our paper. (https://doi.org/10.1016/j.ast.2025.111073)
+
 # IBM_TENO
 
 **IBM_TENO** is a GPU-accelerated solver for simulating supersonic flows using a combination of the Immersed Boundary Method (IBM) and Targeted Essentially Non-Oscillatory (TENO) schemes. This solver is implemented in Fortran and is designed to handle complex geometries efficiently on CUDA-enabled GPUs.
