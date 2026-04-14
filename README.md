@@ -42,7 +42,7 @@ nvfortran -cuda -O3 Cylinder.f90 -o Cylinder.out
 ```
 
 # Contributing
-We welcome any contributions and feedback that can help improve MHD_GDDC_GPU. If you would like to contribute to the tool, please contact the maintainers or open an Issue in the repository or a thread in Discussions. Pull Requests are encouraged, but please propose or discuss the changes in the associated Issue beforehand.
+We welcome any contributions and feedback that can help improve IBM_TENO. If you would like to contribute to the tool, please contact the maintainers or open an Issue in the repository or a thread in Discussions. Pull Requests are encouraged, but please propose or discuss the changes in the associated Issue beforehand.
 
 # Licencing
 Please refer to the licence file.
